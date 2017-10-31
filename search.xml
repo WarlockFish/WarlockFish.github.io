@@ -19,7 +19,7 @@
 <pre><code>sudo apt-get install exfat-fuse
 </code></pre><h3 id="3-5-修复分区"><a href="#3-5-修复分区" class="headerlink" title="3.5 修复分区"></a>3.5 修复分区</h3><pre><code>sudo ntfsfix /dev/sda8
 </code></pre><h3 id="3-6安装atom"><a href="#3-6安装atom" class="headerlink" title="3.6安装atom"></a>3.6安装atom</h3><p>官网下载最新版本 <a href="https://atom.io/" target="_blank" rel="external">atom</a></p>
-<h3 id="3-7-uget-aria2下载工具"><a href="#3-7-uget-aria2下载工具" class="headerlink" title="3.7 uget+aria2下载工具"></a>3.7 uget+aria2下载工具</h3><p>安装uget和aria2<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">suao apt-get insta uget &amp;&amp; aria2</div></pre></td></tr></table></figure></p>
+<h3 id="3-7-uget-aria2下载工具"><a href="#3-7-uget-aria2下载工具" class="headerlink" title="3.7 uget+aria2下载工具"></a>3.7 uget+aria2下载工具</h3><p>安装uget和aria2<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">sudo apt-get install uget  aria2</div></pre></td></tr></table></figure></p>
 <p>配置</p>
 <p> a.打开uget。</p>
 <p> b.打开界面的编辑—&gt;设置—&gt;插件，插件匹配顺序：aria2 。</p>

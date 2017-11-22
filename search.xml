@@ -104,9 +104,9 @@
         
         <tags>
             
-            <tag> 教程 </tag>
-            
             <tag> ubuntu </tag>
+            
+            <tag> 教程 </tag>
             
         </tags>
         
@@ -211,13 +211,13 @@
         
         <tags>
             
-            <tag> new </tag>
+            <tag> 教程 </tag>
             
-            <tag> hexo </tag>
+            <tag> new </tag>
             
             <tag> github pages </tag>
             
-            <tag> 教程 </tag>
+            <tag> hexo </tag>
             
             <tag> 配置 </tag>
             

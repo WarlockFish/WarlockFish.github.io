@@ -58,9 +58,9 @@
       <category term="ubuntu 安装" scheme="http://warlockfish.xyz/categories/ubuntu-%E5%AE%89%E8%A3%85/"/>
     
     
-      <category term="教程" scheme="http://warlockfish.xyz/tags/%E6%95%99%E7%A8%8B/"/>
-    
       <category term="ubuntu" scheme="http://warlockfish.xyz/tags/ubuntu/"/>
+    
+      <category term="教程" scheme="http://warlockfish.xyz/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
@@ -84,13 +84,13 @@
       <category term="github + hexo" scheme="http://warlockfish.xyz/categories/github-hexo/"/>
     
     
-      <category term="new" scheme="http://warlockfish.xyz/tags/new/"/>
+      <category term="教程" scheme="http://warlockfish.xyz/tags/%E6%95%99%E7%A8%8B/"/>
     
-      <category term="hexo" scheme="http://warlockfish.xyz/tags/hexo/"/>
+      <category term="new" scheme="http://warlockfish.xyz/tags/new/"/>
     
       <category term="github pages" scheme="http://warlockfish.xyz/tags/github-pages/"/>
     
-      <category term="教程" scheme="http://warlockfish.xyz/tags/%E6%95%99%E7%A8%8B/"/>
+      <category term="hexo" scheme="http://warlockfish.xyz/tags/hexo/"/>
     
       <category term="配置" scheme="http://warlockfish.xyz/tags/%E9%85%8D%E7%BD%AE/"/>
     

@@ -3,6 +3,34 @@
   
     
     <entry>
+      <title><![CDATA[ubuntu强制清除垃圾回收站]]></title>
+      <url>/2017/11/22/ubuntu%E5%BC%BA%E5%88%B6%E6%B8%85%E9%99%A4%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E7%AB%99/</url>
+      <content type="html"><![CDATA[<h1 id="强制清除垃圾回收站"><a href="#强制清除垃圾回收站" class="headerlink" title="强制清除垃圾回收站"></a>强制清除垃圾回收站</h1><a id="more"></a>
+<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>我遇到了无法在Ubuntu 16.04中清空回收站的问题。我右键回收站图标并选择清空回收站，就像我一直做的那样。我看到进度条显示删除文件中过了一段时间。但是它停止了,垃圾站中有些文件删除了，但有些文件还是没有删除。在看了文件夹后原来没有权限。</p>
+<h2 id="方案"><a href="#方案" class="headerlink" title="方案"></a>方案</h2><p>Ubuntu 16.04的回收站路径为</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">：<span class="variable">$HOME</span>/.<span class="built_in">local</span>/share/Trash/</div></pre></td></tr></table></figure>
+<p>然后用以下命令即可清空回收站</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">sudo rm -fr <span class="variable">$HOME</span>/.<span class="built_in">local</span>/share/Trash/files/*</div></pre></td></tr></table></figure>
+]]></content>
+      
+        <categories>
+            
+            <category> linux </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> unbuntu </tag>
+            
+            <tag> linux，垃圾站 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[ubuntu配置]]></title>
       <url>/2017/10/29/ubuntu%E9%85%8D%E7%BD%AE/</url>
       <content type="html"><![CDATA[<h1 id="ubuntu16-04安装后配置"><a href="#ubuntu16-04安装后配置" class="headerlink" title="ubuntu16.04安装后配置"></a>ubuntu16.04安装后配置</h1><a id="more"></a>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+  <url>
+    <loc>http://warlockfish.xyz/2017/11/22/ubuntu%E5%BC%BA%E5%88%B6%E6%B8%85%E9%99%A4%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E7%AB%99/</loc>
+    <lastmod>2017-11-22T12:52:47.812Z</lastmod>
+    <data>
+        <display>
+        <title>ubuntu强制清除垃圾回收站</title>
+        <pubTime>2017-11-22T12:38:23.000Z</pubTime>
+        
+        <tag>unbuntu</tag>
+         
+        <tag>linux，垃圾站</tag>
+         
+         
+           
+             
+              <breadCrumb title="linux" url="http://warlockfish.xyz/categories/linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://warlockfish.xyz/2017/10/29/ubuntu%E9%85%8D%E7%BD%AE/</loc>
+    <lastmod>2017-10-31T08:31:35.062Z</lastmod>
+    <data>
+        <display>
+        <title>ubuntu配置</title>
+        <pubTime>2017-10-29T13:55:50.000Z</pubTime>
+        
+        <tag>教程</tag>
+         
+        <tag>ubuntu</tag>
+         
+         
+           
+             
+              <breadCrumb title="ubuntu 安装" url="http://warlockfish.xyz/categories/ubuntu-%E5%AE%89%E8%A3%85/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://warlockfish.xyz/2017/10/15/github-hexo-%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2017-10-29T13:54:08.715Z</lastmod>
+    <data>
+        <display>
+        <title>github+hexo 搭建博客</title>
+        <pubTime>2017-10-15T15:04:53.000Z</pubTime>
+        
+        <tag>new</tag>
+         
+        <tag>hexo</tag>
+         
+        <tag>github pages</tag>
+         
+        <tag>教程</tag>
+         
+        <tag>配置</tag>
+         
+         
+           
+             
+              <breadCrumb title="github + hexo" url="http://warlockfish.xyz/categories/github-hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://warlockfish.xyz/2017/10/07/my-first-blog/</loc>
+    <lastmod>2017-10-08T05:19:56.791Z</lastmod>
+    <data>
+        <display>
+        <title>my-first-blog</title>
+        <pubTime>2017-10-07T14:03:57.000Z</pubTime>
+        
+        <tag>new</tag>
+         
+        <tag>github pages</tag>
+         
+        <tag>静态网站</tag>
+         
+         
+           
+             
+              <breadCrumb title="github pages" url="http://warlockfish.xyz/categories/github-pages/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+  <url>
+    <loc>http://warlockfish.xyz/2017/10/07/hello-world/</loc>
+    <lastmod>2017-10-07T11:36:42.405Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-10-07T02:00:00.000Z</pubTime>
+        
+        <tag>hello world</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+</urlset>

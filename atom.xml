@@ -109,9 +109,9 @@
     
       <category term="new" scheme="http://warlockfish.xyz/tags/new/"/>
     
-      <category term="hexo" scheme="http://warlockfish.xyz/tags/hexo/"/>
-    
       <category term="github pages" scheme="http://warlockfish.xyz/tags/github-pages/"/>
+    
+      <category term="hexo" scheme="http://warlockfish.xyz/tags/hexo/"/>
     
       <category term="教程" scheme="http://warlockfish.xyz/tags/%E6%95%99%E7%A8%8B/"/>
     

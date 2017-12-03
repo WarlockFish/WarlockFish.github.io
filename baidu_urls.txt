@@ -1,3 +1,4 @@
+http://warlockfish.xyz/2017/12/03/使用DigitalOcean搭建ShadowSocks及其优化/
 http://warlockfish.xyz/2017/11/22/ubuntu强制清除垃圾回收站/
 http://warlockfish.xyz/2017/10/29/ubuntu配置/
 http://warlockfish.xyz/2017/10/15/github-hexo-搭建博客/
